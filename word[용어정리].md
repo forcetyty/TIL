@@ -1,10 +1,10 @@
-#[¿ë¾îÁ¤¸®]
+#ìš©ì–´ì •ë¦¬
 ##ICT Word
 
 
 [A]
 --
-- AOP : Aspect Oriented Programming (°üÁ¡ÁöÇâ ÇÁ·Î±×·¡¹Ö)
+- AOP : Aspect Oriented Programming (ê´€ì ì§€í–¥ í”„ë¡œê·¸ë˜ë°)
 
 [B]
 --
@@ -14,13 +14,13 @@
 
 [D]
 --
--  DI : Dependency Injection (ÀÇÁ¸¼º ÁÖÀÔ)
+-  DI : Dependency Injection (ì˜ì¡´ì„± ì£¼ì…)
 
-- DAO : Data Access Object (µ¥ÀÌÅÍ Á¢±Ù °´Ã¼)
+- DAO : Data Access Object (ë°ì´í„° ì ‘ê·¼ ê°ì²´)
 
-- DTO : Data Transfer Object (µ¥ÀÌÅÍ ±³È¯ °´Ã¼)
+- DTO : Data Transfer Object (ë°ì´í„° êµí™˜ ê°ì²´)
 
-- VO : Value Object (µ¥ÀÌÅÍ °´Ã¼) (DTO¿Í ºñ½ÁÇÑ °³³äÀÌÁö¸¸ Read OnlyÀÇ ¼Ó¼ºÀ» °¡Áü)
+- VO : Value Object (ë°ì´í„° ê°ì²´) (DTOì™€ ë¹„ìŠ·í•œ ê°œë…ì´ì§€ë§Œ Read Onlyì˜ ì†ì„±ì„ ê°€ì§)
 
 [E]
 --
@@ -36,17 +36,17 @@
 
 [I]
 --
-- IDC : Internet Data Center (ÀÎÅÍ³İ µ¥ÀÌÅÍ ¼¾ÅÍ)
+- IDC : Internet Data Center (ì¸í„°ë„· ë°ì´í„° ì„¼í„°)
 
 [J]
 --
-- JVM : Java Virtual Machine (ÀÚ¹Ù °¡»ó ¸Ó½Å)
+- JVM : Java Virtual Machine (ìë°” ê°€ìƒ ë¨¸ì‹ )
 
-- JSP : Java Server Pages (ÀÚ¹Ù ¼­¹ö ÆäÀÌÁö)
+- JSP : Java Server Pages (ìë°” ì„œë²„ í˜ì´ì§€)
 
 [K]
 --
-- Kafka : Apache Kafka (¾ÆÆÄÄ¡ Ä«ÇÁÄ«) - (¾ÆÆÄÄ¡ Àç´ÜÀÌ ½ºÄ®¶ó·Î °³¹ßÇÑ ¿ÀÇÂ ¼Ò½º ¸Ş½ÃÁö ºê·ÎÄ¿)
+- Kafka : Apache Kafka (ì•„íŒŒì¹˜ ì¹´í”„ì¹´) - (ì•„íŒŒì¹˜ ì¬ë‹¨ì´ ìŠ¤ì¹¼ë¼ë¡œ ê°œë°œí•œ ì˜¤í”ˆ ì†ŒìŠ¤ ë©”ì‹œì§€ ë¸Œë¡œì»¤)
 
 [L]
 --
@@ -56,14 +56,14 @@
 
 [M]
 --
-- MD : Mark Down (¸¶Å© ´Ù¿î)
+- MD : Mark Down (ë§ˆí¬ ë‹¤ìš´)
 
 [O]
 --
 
 [P]
 --
-- POSIX : Interface, Portable Operating System Interface (ÀÌ½Ä °¡´É ¿î¿µ Ã¼Á¦ ÀÎÅÍÆäÀÌ½º)
+- POSIX : Interface, Portable Operating System Interface (ì´ì‹ ê°€ëŠ¥ ìš´ì˜ ì²´ì œ ì¸í„°í˜ì´ìŠ¤)
 
 [Q]
 --
@@ -73,12 +73,12 @@
 
 [S]
 --
-- SOLID : (°´Ã¼ ÁöÇâ ¼³°è)
-  - SRP : Single Responsibility Principle (´ÜÀÏ Ã¥ÀÓ ¿øÄ¢)
-  - OCP : Open Closed Principle (°³¹æ-Æó¼â ¿øÄ¢)
-  - LSP : Liskov Substitution Principle (¸®½ºÄÚÇÁ Ä¡È¯ ¿øÄ¢)
-  - ISP : Interface Segregation Principle (ÀÎÅÍÆäÀÌ½º ºĞ¸® ¿øÄ¢)
-  - DIP : Dependency Inversion Principle (ÀÇÁ¸°ü°è ¿ªÀü ¿øÄ¢)
+- SOLID : (ê°ì²´ ì§€í–¥ ì„¤ê³„)
+  - SRP : Single Responsibility Principle (ë‹¨ì¼ ì±…ì„ ì›ì¹™)
+  - OCP : Open Closed Principle (ê°œë°©-íì‡„ ì›ì¹™)
+  - LSP : Liskov Substitution Principle (ë¦¬ìŠ¤ì½”í”„ ì¹˜í™˜ ì›ì¹™)
+  - ISP : Interface Segregation Principle (ì¸í„°í˜ì´ìŠ¤ ë¶„ë¦¬ ì›ì¹™)
+  - DIP : Dependency Inversion Principle (ì˜ì¡´ê´€ê³„ ì—­ì „ ì›ì¹™)
 
 [T]
 --
@@ -91,7 +91,7 @@
 
 [W]
 --
-- WAS : Web Application Server (À¥ ¾ÖÇÃ¸®ÄÉÀÌ¼Ç ¼­¹ö)
+- WAS : Web Application Server (ì›¹ ì• í”Œë¦¬ì¼€ì´ì…˜ ì„œë²„)
 
 [X]
 --
