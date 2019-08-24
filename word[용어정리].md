@@ -1,5 +1,4 @@
-# 용어정리
-## ICT Word
+# 용어정리 [ICT Word]
 
 
 
